@@ -14,6 +14,8 @@
 
    
 Manual / Instructions for your projects starts here !
-# Topic 1
-# Topic 2 
-# Topic 3
+# เล่มรายงานฉบับสมบูรณ์
+# บทคัดย่อ
+  ภาษาไทย
+  ภาษาอังกฤษ
+# Demo แสดงขั้นตอนการติดตั้งโปรแกรม
