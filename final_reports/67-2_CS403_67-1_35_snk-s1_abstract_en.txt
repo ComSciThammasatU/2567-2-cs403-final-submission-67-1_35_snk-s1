@@ -1,0 +1,9 @@
+The application of artificial intelligence in processing and answering questions from infographic data continues to encounter persistent errors due to the diverse text positioning formats and structural page arrangements 
+that vary across different infographics, as well as images with complex components, 
+which creates challenges for AI models in accurately understanding information. 
+This research focuses on studying and comparing the performance of Large Language Model-based AI models, 
+specifically Gemma and Llama3.2-Vision, in summarizing information from seven different types of health-related infographics
+ through three experimental approaches direct image input, OCR text conversion, and OCR text correction before model input. 
+The experimental results will help analyze the most suitable approaches for applying artificial intelligence to process infographic data more accurately, 
+enabling the identification of factors that affect model performance and providing crucial guidelines for developing future infographic data processing and question-answering systems.
+Keywords: Artificial Intelligence, Large Language Model, Infographic, Health, Gemma, LLaMA3.2-Vision, OCR
