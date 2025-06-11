@@ -68,7 +68,6 @@ Python 3.8
 ```bash
 python --version 
 ```
-`python --version` 
 
 หรือ:
 
